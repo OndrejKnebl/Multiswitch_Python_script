@@ -1,1 +1,1 @@
-# Mutiswitch Python script
+# Multiswitch Python script
