@@ -78,7 +78,7 @@ sendOnlySelected2[4] = 1     # Active power
 sendOnlySelected2[3] = 1     # Power factor
 sendOnlySelected2[2] = 1     # Sunrise
 sendOnlySelected2[1] = 1     # Sunset
-sendOnlySelected2[1] = 1     # 
+sendOnlySelected2[0] = 1     # 
 
 resSoS1 = int("".join(str(x) for x in sendOnlySelected1), 2)        # Converting binary list to integer
 resSoS2 = int("".join(str(x) for x in sendOnlySelected2), 2)        # Converting binary list to integer
